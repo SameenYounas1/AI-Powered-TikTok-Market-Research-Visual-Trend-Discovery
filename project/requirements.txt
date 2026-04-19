@@ -1,0 +1,8 @@
+# Project dependencies
+streamlit
+apify-client
+pandas
+python-dotenv
+pillow
+numpy
+requests
